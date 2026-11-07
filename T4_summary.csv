@@ -1,0 +1,6 @@
+true_m,n,est_median_m,est_mean_m,est_sd_m,q10,q90,shoulder_px,jitter_x_mm,jitter_y_mm
+0.5,374,0.90,0.95,0.20,0.86,1.10,422,40.8,48.0
+1.0,372,1.18,1.17,0.06,1.09,1.24,321,67.8,12.6
+1.5,363,1.84,1.55,0.39,0.98,1.88,206,26.9,59.2
+2.0,376,2.02,2.02,0.02,2.00,2.04,188,17.9,3.9
+# subject measured biacromial shoulder width (tape) = 0.38 m, equal to the assumed SHOULDER_M

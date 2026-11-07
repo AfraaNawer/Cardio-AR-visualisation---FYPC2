@@ -1,0 +1,7 @@
+run,phase,frames,body_pct,max_people,heart_jumps,heart_x_avg_px
+poses1,0-15s A alone,351,75,1,10,535
+poses1,15-30s A+B,330,81,1,5,665
+poses1,30-45s B alone,317,100,1,1,762
+poses2,0-15s A alone,210,100,1,29,614
+poses2,15-30s A+B,197,100,2,19,648
+poses2,30-45s B alone,177,100,2,3,677
